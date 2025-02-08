@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Mi PDF</h1>
-    <embed src="horario.pdf" type="application/pdf" width="100%" height="600px" />
+    <embed src="Horario.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
